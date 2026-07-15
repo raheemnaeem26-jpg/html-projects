@@ -1,0 +1,39 @@
+
+a{
+     color: rgb(205, 250, 4); 
+    text-decoration: none;
+}
+
+     div{
+    height: 35px;
+    background-color: rgb(58, 49, 49);
+    
+} 
+button{
+    background-color: rgb(239, 243, 15);
+}
+a{
+    padding:100px;
+
+    /* border: 5px solid white;
+    border-radius: 3px; */
+    margin: 1px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(68, 67, 67);
+    height:300px
+    
+    
+}
+main{
+    height:700px ;
+
+}
+#a1{
+    text-align: center;
+    color: bisque;
+    display: block;
+    background-color: rgb(71, 70, 70);
+   padding: 0px;
+}
